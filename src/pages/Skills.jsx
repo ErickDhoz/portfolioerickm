@@ -1,7 +1,9 @@
+import CardSkill from "../component/CardSkill";
+
 function Skills() {
     return (
-        <div className="">
-            
+        <div className="mt-6">
+            <CardSkill/>
         </div>
     );
 }
